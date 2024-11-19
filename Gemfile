@@ -43,7 +43,6 @@ group :jekyll_plugins do
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
     gem 'jekyll-target-blank'
-    gem 'jekyll-twitter-plugin'
     gem 'jekyll-redirect-from'
     gem 'jemoji'
     gem 'mini_racer'
